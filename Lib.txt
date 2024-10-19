@@ -1,0 +1,5 @@
+Giấy phép Apache 1.0 là Giấy phép Apache gốc chỉ áp dụng cho các phiên bản cũ của các gói Apache (như phiên bản 1.2 của máy chủ web).
+
+Giấy phép Apache 1.1 được ASF thông qua năm 2000: Thay đổi cơ bản từ 1.0 sang 2.0 là 'khoản quảng cáo' (mục 3 giấy phép 1.0); các sản phẩm phái sinh không còn bắt buộc phải kèm lời ghi công trong các thành phần quảng cáo, mà chỉ trong hướng dẫn sử dụng mà thôi.[7]
+
+ASF bắt đầu sử dụng Giấy phép Apache 2.0 vào tháng 1 năm 2004. Mục tiêu của giấy phép bao gồm giúp các dự án sử dụng giấy phép nhưng không thuộc ASF dễ dàng sử dụng, cải tiến độ tương thích với phần mềm theo GPL, cho phép giấy phép được đính vào phần tham khảo thay vì phải ghi trong mỗi tập tin, làm rõ giấy phép cho từng phần đóng góp, và bắt buộc một giấy phép bằng sáng chế cho các đóng góp có khả năng vi phạm bằng sáng chế của một người đóng góp.[7]

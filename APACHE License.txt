@@ -1,0 +1,9 @@
+Bản quyền [2024] [Trần Lâm Hồng Phúc - ps37265]
+
+Được cấp phép theo Giấy phép Apache, Phiên bản 2.0 (“Giấy phép”);
+bạn không được sử dụng tệp này trừ khi tuân thủ Giấy phép.
+Bạn có thể lấy bản sao Giấy phép tại
+http://www.apache.org/licenses/LICENSE-2.0
+
+Trừ khi luật hiện hành yêu cầu hoặc được đồng ý bằng văn bản, phần mềm được phân phối theo Giấy phép sẽ được phân phối trên CƠ SỞ “NGUYÊN TRẠNG”, KHÔNG CÓ BẢO ĐẢM HOẶC ĐIỀU KIỆN DƯỚI BẤT KỲ LOẠI NÀO, dù rõ ràng hay ngụ ý.
+Xem Giấy phép để biết các quyền và giới hạn quản lý ngôn ngữ cụ thể theo Giấy phép.

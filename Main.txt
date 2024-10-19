@@ -1,0 +1,4 @@
+Giấy phép Apache là một giấy phép phần mềm tự do của Quỹ phần mềm Apache (Apache Software Foundation – ASF). Giấy phép Apache trao cho người dùng phần mềm nguồn mở, quyền tự do sử dụng phần mềm với bất kì mục đích nào, phân phối chỉnh sửa, và phân phối bản sửa đổi của phần mềm, theo các điều khoản của giấy phép mà không lo vấn đề bàn quyền.
+Các điều khoản của giấy phép:
+– Giấy phép Apache cho phép người dùng tự do sử dụng phần mềm với bất kì mục đích nào, tự do phân phối, tự do sửa đổi, tự do phân phối bản sửa đổi mình làm.
+– Giấy phép Apache không yêu cầu bản sửa đổi của phần mềm phải được phân phối dưới cùng giấy phép với bản gốc, cũng không yêu cầu bản sửa đổi phải được phân phối dưới dạng mã nguồn mở. Giấy phép Apache chỉ yêu cầu có một thông báo nhắc nhở người nhận rằng giấy phép Apache đã được sử dụng trong sản phẩm họ nhận được.
